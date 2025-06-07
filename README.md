@@ -44,3 +44,9 @@ O sistema é capaz de:
 dotnet new console -o SistemaSemaforos
 cd SistemaSemaforos
 # global-cs
+```
+Integrantes do Grupo
+
+    Emanuelle Soares — RM97973
+    Julia Amorim — RM99609
+
